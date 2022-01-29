@@ -3,6 +3,8 @@
 My repo is here:
 
 https://github.com/ucsb-cs156-w22/jpa03-shuyashou
+https://github.com/ucsb-cs156-w22/jpa03-shuyashou-docs-qa
+https://github.com/ucsb-cs156-w22/jpa03-shuyashou-docs
 
 Storybook is here:
 
